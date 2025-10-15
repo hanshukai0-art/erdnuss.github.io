@@ -3,43 +3,11 @@ const CONFIG = {
     // 作品配置 - 在这里添加你的作品信息
     works: [
         {
-            filename: 'city-1.jpg',
-            title: '城市几何',
-            category: 'city',
-            description: '高楼林立间的光影对比'
-        },
-        {
-            filename: 'city-2.jpg',
-            title: '夜色迷离',
-            category: 'city',
-            description: '城市夜晚的静谧时刻'
-        },
-        {
-            filename: 'humanity-1.jpg',
-            title: '匿名的路人',
-            category: 'humanity',
-            description: '人群中的孤独身影'
-        },
-        {
-            filename: 'humanity-2.jpg',
-            title: '决定性瞬间',
-            category: 'humanity',
-            description: '时光的永恒定格'
-        },
-        {
-            filename: 'nature-1.jpg',
+            filename: 'nature-1.JPG',
             title: '自然律动',
             category: 'nature',
             description: '光线下的自然纹理'
         },
-        {
-            filename: 'nature-2.jpg',
-            title: '静谧之境',
-            category: 'nature',
-            description: '自然中的内省时刻'
-        }
-    ],
-    
     // 图片文件夹路径
     imagesFolder: 'images/'
 };
